@@ -3,7 +3,7 @@ CL-Drive is a driver cognitive load assessment dataset which contains Electroenc
 
 ![Alt text](/Figures/driving_simulator.jpg?raw=true "Optional Title")
 
-# Modalities
+# Sensor placement
 This figure shows the placement of the 4 sensors.
 ![Alt text](/Figures/sensor_placement.jpg?raw=true "Optional Title")
  
