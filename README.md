@@ -27,3 +27,4 @@ CL_Drive
         ├───EEG
         └───Gaze
 ```
+![Alt text](/Figures/sensor_placement.jpg?raw=true "Optional Title")
