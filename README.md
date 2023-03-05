@@ -15,21 +15,21 @@ This figure shows the placement of the 4 sensors.
 
 ```    
 CL-Drive
-    |----ECG 
+    |----EEG 
          |----participant_ID_1
-                      |----ecg_data_level_1
-                      |----ecg_baseline_level_1
+                      |----eeg_data_level_1
+                      |----eeg_baseline_level_1
                       .
                       .
                       .
-                      |----ecg_data_level_9
-                      |----ecg_baseline_level_9
+                      |----eeg_data_level_9
+                      |----eeg_baseline_level_9
          .
          .
          .
          |----participant_ID_21
     |----EDA
-    |----EEG
+    |----ECG
     |----Gaze
     |----Labels
 ```
