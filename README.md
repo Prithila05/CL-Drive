@@ -10,7 +10,7 @@ This figure shows the placement of the 4 sensors.
 
 # Download dataset
 
-* Download the CL-Drive dataset from https://borealisdata.ca/privateurl.xhtml?token=505ef1f5-18f8-407b-a9aa-31c964208005
+* Download the CL-Drive dataset from [here](https://borealisdata.ca/privateurl.xhtml?token=505ef1f5-18f8-407b-a9aa-31c964208005)
 * The structure of the dataset would be:
 
 ```    
