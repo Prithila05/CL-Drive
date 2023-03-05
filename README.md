@@ -12,24 +12,25 @@ This figure shows the placement of the 4 sensors.
 
 * Download the CL-Drive dataset from here
 * The structure of the dataset would be:
-```
-CL_Drive
-    ├───baselines
-    ├───filtered
-    │   ├───concatenated
-    │   │   ├───ECG
-    │   │   ├───EDA
-    │   │   ├───EEG
-    │   │   └───Gaze
-    │   └───seperate
-    │       ├───ECG
-    │       ├───EDA
-    │       ├───EEG
-    │       └───Gaze
-    └───unfiltered
-        ├───ECG
-        ├───EDA
-        ├───EEG
-        └───Gaze
+
+```    
+CL-Drive
+    |----ECG 
+         |----participant_ID_1
+                      |----ecg_data_level_1
+                      |----ecg_baseline_level_1
+                      .
+                      .
+                      .
+                      |----ecg_data_level_9
+                      |----ecg_baseline_level_9
+         .
+         .
+         .
+         |----participant_ID_21
+    |----EDA
+    |----EEG
+    |----Gaze
+    |----Labels
 ```
 
