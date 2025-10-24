@@ -11,7 +11,7 @@ This figure shows the placement of the 4 sensors.
 
 # Download dataset
 
-* Download the CL-Drive dataset from [here]([https://borealisdata.ca/privateurl.xhtml?token=505ef1f5-18f8-407b-a9aa-31c964208005](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fborealisdata.ca%2Fdataset.xhtml%3FpersistentId%3Ddoi%3A10.5683%2FSP3%2FJJ2YZZ&data=05%7C02%7Cprithila.angkan%40queensu.ca%7C6b966caccb534c94c5f508de1334f12b%7Cd61ecb3b38b142d582c4efb2838b925c%7C1%7C0%7C638969315676990335%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=fkhtr1ojR8Xdb%2F7C3XrTun6Gb%2FZ2ZbCBd9OSVX%2FvPcU%3D&reserved=0)).
+* Download the CL-Drive dataset from [here](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/JJ2YZZ).
 * The structure of the dataset would be:
 
 ```    
